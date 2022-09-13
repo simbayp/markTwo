@@ -10,10 +10,6 @@ It is a CLI quiz app for poeple to check how well do they know Iron Man 😁. Th
 
 - On the basis of the answers given, the user will get the scores. Please note that, there will not be any penalty for incorrect answers.
 
-<!-- # Preview
-
-![quiz](https://user-images.githubusercontent.com/50478681/182415557-5a14fa21-e81f-4c9f-bc74-8bee09ccb384.png) -->
-
 # Packages used:
 
 [readline-sync](https://www.npmjs.com/package/readline-sync)
